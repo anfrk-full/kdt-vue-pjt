@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1723439178526,
+      "subject": "즐거운 월요일",
+      "completed": false,
+      "body": "사실 즐겁지 않아요"
+    },
+    {
+      "id": 1723439654444,
+      "subject": "잠와요",
+      "completed": false,
+      "body": "잠이 옵니다"
+    },
+    {
+      "id": 1723444165697,
+      "subject": "14",
+      "completed": false,
+      "body": "14"
+    }
+  ],
+  "users" : [
+    {
+      "id" : "jslim",
+      "password" : "jslim",
+      "nickname" : "섭섭이"
+    }
+  ]
+}
